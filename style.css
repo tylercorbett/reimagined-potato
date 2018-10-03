@@ -1,0 +1,38 @@
+h1 {
+    color: firebrick;
+    text-align: center;
+    font-size: 40px;
+}
+
+p {
+    color: green;
+}
+
+#reasons-why{
+    size: 20;
+    color:orangered;
+    font-size:20;
+
+}
+
+#good-boy {
+    align-content: center;
+
+}
+
+ol {
+    text-align:center;
+    list-style-position: inside;
+    font-size: 20px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+#main-header {
+    color: cyan;    
+}
